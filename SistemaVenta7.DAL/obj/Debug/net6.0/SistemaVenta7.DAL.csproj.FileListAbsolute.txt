@@ -1,0 +1,38 @@
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.DAL.deps.json
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.DAL.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.DAL.pdb
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.AssemblyInfo.cs
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\refint\SistemaVenta7.DAL.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.pdb
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\ref\SistemaVenta7.DAL.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.Entity.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.Entity.pdb
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.CopyComplete
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.AssemblyReference.cache
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.AssemblyInfoInputs.cache
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.AssemblyInfo.cs
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.dll
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\refint\SistemaVenta7.DAL.dll
+C:\Users\alano\Downloads\SolucionSistemaVenta7\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.pdb
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.DAL.deps.json
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.DAL.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.DAL.pdb
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.Entity.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\bin\Debug\net6.0\SistemaVenta7.Entity.pdb
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.AssemblyInfo.cs
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.csproj.CopyComplete
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\refint\SistemaVenta7.DAL.dll
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\SistemaVenta7.DAL.pdb
+C:\Users\PC\Documents\Proyecto Sistema Venta\SolucionSistemaVenta7-1\SistemaVenta7.DAL\obj\Debug\net6.0\ref\SistemaVenta7.DAL.dll
